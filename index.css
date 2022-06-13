@@ -1,24 +1,43 @@
-body {
-  background-color: #000099;
+html, body {
+  background-color: #6d1c02;
+  font-family: 'Trebuchet MS', sans-serif;
+  font-size: 16px;
+
+}
+
+#cv {
+    width: 90%;
+    max-width: 800px;
+    background: #1C2542;
+    margin: 30px auto;
+
+     border-radius: 25px;
+
+      padding: 20px;
+
+
 }
 
 h1 {
-  color: white;
-  text-align: center;
+  color: #999999;
+  text-align: left;
 }
 
 h2 {
-  color: white;
-  text-align: center;
+  color: #999999;
+  text-align: left;
 }
 
 h3 {
-  color: white;
-  text-align: center;
+  color: #999999;
+  text-align: left;
 }
 
 p {
+  line-height: 1.4em
   font-family: verdana;
-  font-size: 20px;
-  color: white;
+  font-size: 1em;
+  margin-bottom: 20px;
+  letter-spacing: 3px;
+  color: #999999;
 }
